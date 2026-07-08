@@ -1,0 +1,8 @@
+{
+  "name": "ContentForge AI",
+  "description": "An enterprise-grade AI Content Generator SaaS platform for creators, agencies, and marketers, featuring template-driven copywriting, conversational chat, SEO tools, brand voice, rich documents, and team collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
